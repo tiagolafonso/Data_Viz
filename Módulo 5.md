@@ -6,15 +6,15 @@ Tiago Afonso
 
 ## 1\. Objetivo do Projeto
 
-O objetivo deste projeto final individual é a aplicação prática das competências do curso. Cada aluno irá formular uma pergunta analítica, preparar os dados necessários e, por fim, desenhar uma visualização de dados (entre 1 a 3 gráficos) que comunique uma resposta clara e impactante.
+O objetivo deste projeto final individual é a aplicação prática das competências do curso. Cada aluno irá formular uma pergunta, preparar os dados necessários e, por fim, fazer uma visualização de dados (entre 1 a 3 gráficos) que comunique uma resposta clara e impactante.
 
-Este trabalho é uma avaliação da capacidade de transformar dados brutos em conhecimento visual. O sucesso não reside na complexidade da análise, mas na clareza, elegância e poder de persuasão da visualização.
+Este trabalho é uma avaliação da capacidade de transformar dados brutos em conhecimento visual. O sucesso não reside na complexidade da análise, mas na clareza, elegância e poder de persuasão da visualização (como nos princípios da simplicidade).
 
 ## 2\. Fases do Projeto Individual
 
 **Fase 1**: A Pergunta de Partida
 
-Tudo começa com uma excelente pergunta. O primeiro passo é definir uma questão específica e que possa ser respondida através de dados. Uma pergunta bem formulada é 50% do projeto.
+Tudo começa com uma pergunta, sem resposta óbvia. O primeiro passo é definir uma questão específica e que possa ser respondida através de dados.
 
 *Exemplos de Perguntas Orientadas a Dados:*
 
@@ -42,8 +42,7 @@ Pode usar um LLM como um parceiro de brainstorming. O segredo é dar-lhe um cont
 
 **Fase 2**: Recolha e Limpeza dos Dados
 
-Com a pergunta definida, encontre dados de fontes credíveis (INE, Pordata, Eurostat, Banco de Portugal, Kaggle, etc.). Use o Power Query para limpar e preparar os dados. Lembre-se que esta fase, embora invisível no resultado final, é a fundação de um bom projeto.
-
+Com a pergunta definida, encontre dados de fontes credíveis (INE, Pordata, Eurostat, Banco de Portugal, Kaggle, etc.). Use o Power Query para limpar e preparar os dados.
 Sites:
 
 [Find Open Datasets and Machine Learning Projects | Kaggle](https://www.kaggle.com/datasets)
@@ -54,11 +53,11 @@ Sites:
 
 [https://www.pordata.pt/pt/estatisticas](https://www.pordata.pt/pt/estatisticas)
 
-Se não conseguirem encontrar os dados, enviem mensagem no Teams até dia **1 de julho** para solicitar os dados.
+Se não conseguirem encontrar/fazer download dos dados, enviem mensagem no Teams até dia **1 de julho** para solicitar os dados.
 
 **Fase 3**: A Arte da Visualização (Excel ou Power BI) 
 
-Aqui é onde a análise ganha vida. O objetivo é criar 1 a 3 gráficos que contem uma história clara. A ferramenta é um meio; os princípios de design são o mais importante.
+Aqui é onde a análise começa. O objetivo é criar 1 a 3 gráficos que contem uma história clara. A ferramenta é um meio; os princípios de design/comunicação são o mais importante.
 
 Mais Dicas para uma Visualização de Excelência:
 
@@ -72,7 +71,7 @@ Mais Dicas para uma Visualização de Excelência:
 
 [https://www.data-to-viz.com/](https://www.data-to-viz.com/)
 
-\-Utilize a Cor com Intenção, não como Decoração: A cor deve servir um propósito. Use-a para destacar o dado mais importante (e.g., o país, a empresa), para agrupar categorias ou para assinalar valores positivos/negativos. Use tons neutros (como o cinzento) para o contexto e uma cor forte e saturada para a mensagem principal.
+\-Utilize a Cor com Intenção, não como Decoração: A cor deve servir um propósito. Use-a para destacar o dado mais importante (e.g., o país, a empresa), para agrupar categorias ou para assinalar valores positivos/negativos. Utilizar tons neutros (como o cinzento) para o contexto e uma cor forte e saturada para a mensagem principal.
 
 \-Crie uma Hierarquia Visual Clara: O elemento mais importante deve ser visualmente dominante. O título do gráfico deve ser a principal conclusão, não uma descrição aborrecida.
 
