@@ -87,6 +87,8 @@ Exemplos:
 
 [https://informationisbeautiful.net/](https://informationisbeautiful.net/)
 
+[https://www.datawrapper.de/charts](https://www.datawrapper.de/charts)
+
 ## 3\. A Apresentação (até 2 Minutos)
 
 A apresentação deve ser concisa, direta e memorável.
