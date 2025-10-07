@@ -2,10 +2,10 @@
 
 Visualização de dado
 
-[]Estrutura de dados
+- Estrutura de dados
 
-[] Limpeza de Dados
+- Limpeza de Dados
 
-[] Transformações e cálculos
+- Transformações e cálculos
 
-[] Gráficos
+- Gráficos
