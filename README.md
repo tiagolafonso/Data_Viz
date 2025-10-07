@@ -2,10 +2,10 @@
 
 Visualização de dado
 
-- Estrutura de dados
+1. Estrutura de dados
 
-- Limpeza de Dados
+2. Limpeza de Dados
 
-- Transformações e cálculos
+3. Transformações e cálculos
 
-- Gráficos
+4. Gráficos
