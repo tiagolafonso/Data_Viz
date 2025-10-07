@@ -2,7 +2,7 @@
 
 Visualização de dado
 
-[] Estrutura de dados
+[]Estrutura de dados
 
 [] Limpeza de Dados
 
